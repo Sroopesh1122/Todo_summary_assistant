@@ -24,10 +24,18 @@ Spring Security (optional authentication)
 PostgreSQL
 Steps to Run:
 
-Clone the Repository: => https://github.com/Sroopesh1122/Todo_summary_assistant.git
+Clone the Repository:
+=> https://github.com/Sroopesh1122/Todo_summary_assistant.git
 
-Backend (Spring Boot): =>Open in STS/IntelliJ. =>Configure application.properties with postgresql credentials. =>Run TodoApi.java as a Spring Boot App.
+Backend (Spring Boot):
+=>Open in STS/IntelliJ. 
+=>Configure application.properties with postgresql credentials.
+=>Run TodoApi.java as a Spring Boot App.
 
-Frontend (Vite + React): =>Navigate to frontend folder. =>Run npm install. =>Start with npm run dev. =>Open http://localhost:5173/ in the browser.
+Frontend (Vite + React): 
+=>Navigate to frontend folder.
+=>Run npm install. 
+=>Start with npm run dev.
+=>Open http://localhost:5173/ in the browser.
 
 
